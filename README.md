@@ -13,7 +13,7 @@ Working in a linux environment will be essential to running software for the dro
   - Install [VirtualBox](https://www.virtualbox.org/wiki/Download).
   - Linux install for [VirtualBox tutorial](https://www.imore.com/how-use-linux-your-mac-using-virtual-machine). 
 ### Installing Miniconda
-- Installation Tutorial for [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Miniconda will be useful since it allows you to create seperate python environments, and makes debugging easier.
+- Installation Tutorial for [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Miniconda will be useful, since it allows you to create seperate python environments and makes debugging easier.
 
 
 ## Step 2. Perform object detection
