@@ -34,7 +34,7 @@ Working in a linux environment will be essential to running software for the dro
     pip install -r requirements.txt
     ```
     
-- Download the [sample video](https://purdue0-my.sharepoint.com/:v:/g/personal/hu440_purdue_edu/EbxwYJGdvipLqD1r4WzTknwBkDALLMGRGWuXv2amaM5Y7g?e=CicXRz) and run Yolov5 to generate detections.
+- Download the [sample video](https://purdue0-my.sharepoint.com/:v:/g/personal/hu440_purdue_edu/EYQK3dxQy3hNrfXQAW5gvh8BuEc7rB5PyZIlV6LcaEvUmQ?e=iZYe3M) and run Yolov5 to generate detections.
   - Use the yolov5l.pt weights.
 ### We will be testing the accuracy of the detections that are generated, and should be equal to the base Yolov5l weights. 
 
