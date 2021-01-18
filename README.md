@@ -20,7 +20,7 @@ Working in a linux environment will be essential to running software for the dro
 
 
 ## Step 2. Perform object detection
-- Clone this repo and setup [YoloV5](https://github.com/ultralytics/yolov5)
+- Clone the repo and setup [YoloV5](https://github.com/ultralytics/yolov5)
   - Since many programs require different versions of dependencies, it is good practice to setup YoloV5 in a virtual environment. To do this, create an environment named YoloV5 with Python 3.8 installed. Then, activate the environment. Run the following code to create and activate the environment:
     ```
     conda create --name YoloV5 python=3.8
