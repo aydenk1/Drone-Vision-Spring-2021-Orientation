@@ -26,7 +26,14 @@ Working in a linux environment will be essential to running software for the dro
     conda create --name YoloV5 python=3.8
     conda activate YoloV5
     ```
-  
+  - To install YoloV5 into the environment named YoloV5:
+    ```
+    git clone https://github.com/ultralytics/yolov5.git
+    cd yolov5
+    conda activate YoloV5
+    pip install -r requirements.txt
+    ```
+    
 - Download the [sample video](https://purdue0-my.sharepoint.com/:v:/g/personal/hu440_purdue_edu/EbxwYJGdvipLqD1r4WzTknwBkDALLMGRGWuXv2amaM5Y7g?e=Kgg1co) and run Yolov5 to generate detections.
   - Use the Yolov5l weights.
 ### We will be testing the accuracy of the detections that are generated, and should be equal to the base Yolov5l weights. 
