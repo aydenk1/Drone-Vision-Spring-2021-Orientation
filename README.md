@@ -1,7 +1,7 @@
 # Drone-Vision-Spring-2021-Orientation
 
 ## Step 1. Setup Linux Environment
-Working in a linux environment will be essential to running software for the drone vision team. There are many ways to achieve this, with tons of ways to mess up as well. Please   feel free to ask Justin or I if you run into problems.
+Working in a linux environment will be essential to running software for the drone vision team. There are many ways to achieve this, with tons of ways to mess up as well. Please feel free to ask Justin (jqualley@purdue.edu) or I (akocher@purdue.edu) if you run into problems.
 
 ### Creating a Linux Environment
 - Windows
