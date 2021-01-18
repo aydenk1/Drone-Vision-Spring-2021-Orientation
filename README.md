@@ -35,7 +35,7 @@ Working in a linux environment will be essential to running software for the dro
     ```
     
 - Download the [sample video](https://purdue0-my.sharepoint.com/:v:/g/personal/hu440_purdue_edu/EbxwYJGdvipLqD1r4WzTknwBkDALLMGRGWuXv2amaM5Y7g?e=CicXRz) and run Yolov5 to generate detections.
-  - Use the Yolov5l weights.
+  - Use the yolov5l.pt weights.
 ### We will be testing the accuracy of the detections that are generated, and should be equal to the base Yolov5l weights. 
 
 
